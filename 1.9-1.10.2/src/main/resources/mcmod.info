@@ -1,0 +1,15 @@
+[
+{
+  "modid": "inputmethodblocker",
+  "name": "InputMethodBlocker",
+  "description": "To block input method gaming.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SkyStardust"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
