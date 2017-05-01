@@ -3,7 +3,7 @@
 * 使您开着输入法仍然能正常游戏  
 
 * Fix IME conflict with Minecraft  
-* this mod allow your play game with enable inputmethod  
+* this mod allow your play game with enabled inputmethod  
 
 ## 开源许可(Opensource License)
 * 我们现在开放源代码给每个人.  
