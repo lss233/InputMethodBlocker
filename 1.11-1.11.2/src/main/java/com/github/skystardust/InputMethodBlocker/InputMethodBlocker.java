@@ -43,7 +43,7 @@ public class InputMethodBlocker {
             saveTempNativeFile("InputMethodBlocker-Natives-x64.dll");
         }
         else if (osType== OSChecker.OSType.WIN_X32){
-            saveTempNativeFile("InputMethodBlocker-Natives-x32.dll");
+            saveTempNativeFile("InputMethodBlocker-Natives-x86.dll");
         }
     }
     private void saveTempNativeFile(String fileName) throws IOException {
